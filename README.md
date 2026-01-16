@@ -11,13 +11,26 @@
 
 ## 💎 Skills & Specialities
 - **Tools & Framework**: <br>
-  <kbd>Adobe Illustrator</kbd>, Adobe Photoshop, Autodesk MAYA, Canva, Figma, GitHub, Bootstrap
+  <kbd>Adobe Illustrator</kbd>
+  <kbd>Adobe Photoshop</kbd>
+  <kbd>Autodesk MAYA</kbd>
+  <kbd>Canva</kbd>
+  <kbd>Figma</kbd>
+  <kbd>GitHub</kbd>
+  <kbd>Bootstrap</kbd>
 - **Programming Language**s: <br>
-  HTML, Javascript, Python, jQuery, C++, Java, AJAX, Node.js
+  <kbd>HTML</kbd>
+  <kbd>Javascript</kbd>
+  <kbd>Python</kbd>
+  <kbd>jQuery</kbd>
+  <kbd>C++</kbd>
+  <kbd>Java</kbd>
+  <kbd>AJAX</kbd>
+  <kbd>Node.js</kbd>
 
 ---
 
-## 🏆 Leadership Roles
+## 🏆 Honors & Achievements
 - **TEDx TMU Ambassador**, 2023
 - **Toastmasters** Top 20 Competitors - Toronto Metropolitan University
   
