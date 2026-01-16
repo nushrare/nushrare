@@ -10,8 +10,8 @@
 ---
 
 ## 💎 Skills & Specialities
-- **Tools & Framework**: <br> 
-  Adobe Illustrator, Adobe Photoshop, Autodesk MAYA, Canva, Figma, GitHub, Bootstrap
+- **Tools & Framework**: <br>
+  <kbd>Adobe Illustrator</kbd>, Adobe Photoshop, Autodesk MAYA, Canva, Figma, GitHub, Bootstrap
 - **Programming Language**s: <br>
   HTML, Javascript, Python, jQuery, C++, Java, AJAX, Node.js
 
