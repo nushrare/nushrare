@@ -1,12 +1,12 @@
 # 🪷 Hi there, my name is Anushka Jain!
 
-🎓 Computer Science student  
+UI / UX Designer | TEDx TMU Ambassador | Public Speaker
 📍 Toronto, Canada  
-🌱 Currently learning web development and Python
 
 ---
 
 ## About Me
+🎓 Interaction Design student @ George Brown College Polytechnic 
 - Exploring HTML, CSS, and GitHub
 - Interested in building useful, clean projects
 - Learning step by step without pretending to be an expert
