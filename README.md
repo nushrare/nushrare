@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🪷 Hi there, my name is Anushka Jain!
 
-<!--
-**nushrare/nushrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+📍 Toronto, Canada  
+🌱 Currently learning web development and Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Exploring HTML, CSS, and GitHub
+- Interested in building useful, clean projects
+- Learning step by step without pretending to be an expert
+
+---
+
+## Tech I'm Learning
+- HTML
+- CSS
+- Python
+- Git & GitHub
+
+---
+
+## Connect
+- Email: your-email@gmail.com
+- LinkedIn: your-link-here
