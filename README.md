@@ -9,13 +9,21 @@
 
 ---
 
-## Skills & Specialities
-- **Tools & Technologies**: Adobe Illustrator, Adobe Photoshop, MAYA, Canva, Figma, Miro
-- **Programming Language**s: HTML, Javascript, Python, jQuery, C++, Java, AJAX
+## 💎 Skills & Specialities
+- **Tools & Framework**: <br> 
+  Adobe Illustrator, Adobe Photoshop, Autodesk MAYA, Canva, Figma, GitHub, Bootstrap
+- **Programming Language**s: <br>
+  HTML, Javascript, Python, jQuery, C++, Java, AJAX, Node.js
 
 ---
 
-## Get in touch with me
+## 🏆 Leadership Roles
+- **TEDx TMU Ambassador**, 2023
+- **Toastmasters** Top 20 Competitors - Toronto Metropolitan University
+  
+---
+
+## 📩 Get in touch with me
 - Email: anushka.jain@georgebrown.ca
 - LinkedIn: https://www.linkedin.com/in/nushrare/
 - Github: https://github.com/nushrare
