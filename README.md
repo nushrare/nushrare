@@ -16,6 +16,15 @@
 
 ## 💎 Skills & Specialities
 - **Tools & Framework**: <br>
+        <p>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-plain.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
+        </p>
   <kbd>Adobe Illustrator</kbd>
   <kbd>Adobe Photoshop</kbd>
   <kbd>Autodesk MAYA</kbd>
@@ -23,6 +32,9 @@
   <kbd>Figma</kbd>
   <kbd>GitHub</kbd>
   <kbd>Bootstrap</kbd>
+
+  
+  
 - **Programming Language**s: <br>
   <kbd>HTML</kbd>
   <kbd>Javascript</kbd>
