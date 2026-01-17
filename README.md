@@ -1,4 +1,4 @@
-# 🪷 Hi, my name is Anushka Jain!
+# Hi, my name is Anushka Jain! 🪷
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/nushrare)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/nushrare)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey)](https://yourportfolio.com)
@@ -14,7 +14,7 @@
 
 ---
 
-## ✅ Skills & Specialities
+## Skills & Specialities
 **Tools & Frameworks**: <br>
         <p>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
@@ -46,12 +46,12 @@
 ---
 
 ## 🏆 Honors & Achievements
-- **TEDx TMU Ambassador**, 2023
-- **Toastmasters** Top 20 Competitors - Toronto Metropolitan University
+- 👑 **TEDx TMU Ambassador**, 2023
+- 🌟 **Toastmasters** Top 20 Competitors - Toronto Metropolitan University
   
 ---
 
-## 💌 Get in touch with me
+## 📩 Get in touch with me
 - Email: anushka.jain@georgebrown.ca
 - LinkedIn: https://www.linkedin.com/in/nushrare/
 - Github: https://github.com/nushrare
