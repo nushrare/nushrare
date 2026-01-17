@@ -1,4 +1,9 @@
 # 🪷 Hi there, my name is Anushka Jain!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/nushrare)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/nushrare)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey)](https://yourportfolio.com)
+[![Website](https://img.shields.io/badge/Website-brightgreen)](https://nushrare.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:anushka.jain@georgebrown.ca)
 
 #### UI / UX Designer | TEDx TMU Ambassador | Public Speaker
 
@@ -40,3 +45,5 @@
 - Email: anushka.jain@georgebrown.ca
 - LinkedIn: https://www.linkedin.com/in/nushrare/
 - Github: https://github.com/nushrare
+
+
