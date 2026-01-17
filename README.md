@@ -15,7 +15,7 @@
 ---
 
 ## 💎 Skills & Specialities
-- **Tools & Framework**: <br>
+**Tools & Framework**: <br>
         <p>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
@@ -35,7 +35,7 @@
 
   
   
-- **Programming Language**s: <br>
+**Programming Language**s: <br>
   <kbd>HTML</kbd>
   <kbd>Javascript</kbd>
   <kbd>Python</kbd>
