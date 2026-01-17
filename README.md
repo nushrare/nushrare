@@ -1,9 +1,11 @@
 # Hi, my name is Anushka Jain! 🪷
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/nushrare)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/nushrare)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey)](https://yourportfolio.com)
-[![Website](https://img.shields.io/badge/Website-brightgreen)](https://nushrare.com)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:anushka.jain@georgebrown.ca)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nushrare)
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nushrare)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-4B4B4B?style=for-the-badge)](https://yourportfolio.com)
+[![WEBSITE](https://img.shields.io/badge/WEBSITE-2ECC71?style=for-the-badge)](https://nushrare.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushka.jain@georgebrown.ca)
+
+---
 
 #### UI / UX Designer | TEDx TMU Ambassador | Model | Public Speaker
 
