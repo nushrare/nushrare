@@ -1,11 +1,11 @@
-# 🪷 Hi there, my name is Anushka Jain!
+# 🪷 Hi, my name is Anushka Jain!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/nushrare)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/nushrare)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey)](https://yourportfolio.com)
 [![Website](https://img.shields.io/badge/Website-brightgreen)](https://nushrare.com)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:anushka.jain@georgebrown.ca)
 
-#### UI / UX Designer | TEDx TMU Ambassador | Public Speaker
+#### UI / UX Designer | TEDx TMU Ambassador | Model | Public Speaker
 
 ---
 
@@ -14,8 +14,8 @@
 
 ---
 
-## 💎 Skills & Specialities
-**Tools & Framework**: <br>
+## ✅ Skills & Specialities
+**Tools & Frameworks**: <br>
         <p>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
@@ -32,8 +32,6 @@
   <kbd>Figma</kbd>
   <kbd>GitHub</kbd>
   <kbd>Bootstrap</kbd>
-
-  
   
 **Programming Language**s: <br>
   <kbd>HTML</kbd>
@@ -53,7 +51,7 @@
   
 ---
 
-## 📩 Get in touch with me
+## 💌 Get in touch with me
 - Email: anushka.jain@georgebrown.ca
 - LinkedIn: https://www.linkedin.com/in/nushrare/
 - Github: https://github.com/nushrare
